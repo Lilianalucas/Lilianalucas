@@ -1,14 +1,10 @@
 <!-- Banner ou título -->
 <h1 align="center">
   <img src="./menina.png" alt="Menina tecnóloga" width="35"/> 
-  Olá, sou a Liliana! 👋
-</h1>
+  Olá, sou a Liliana!👋</h1>
 
-<p align="center">
-  <b>Desenvolvedora Full-Stack em formação</b><br>
-  Técnica, observadora e movida pela curiosidade de entender como as coisas funcionam.  
-  Atualmente finalizando meu curso técnico em Informática.
-</p>
+<p>Desenvolvedora Full-Stack em formação Técnica,observadora e movida pela curiosidade de entender
+  como as coisas funcionam. Atualmente finalizando meu curso técnico em Informática.</p>
 
 ---
 
