@@ -7,16 +7,6 @@ Sou uma desenvolvedora técnica e observadora, movida pela curiosidade de entend
 Acredito que o silêncio e a observação são ferramentas poderosas para resolver problemas complexos, seja diagnosticando uma placa-mãe ou estruturando uma aplicação web do zero.
 
 ---
-
-### 🚀 O que eu faço
-
-* 💻 **Desenvolvimento:** Criando aplicações modernas e funcionais com **Python, JavaScript e PHP**.
-* 🎨 **Front-end:** Focada em transformar ideias em interfaces responsivas e limpas usando **HTML5 e CSS3**.
-* 🔧 **Hardware:** Apaixonada por manutenção e arquitetura de computadores; nada me satisfaz tanto quanto um sistema voltando à vida após um reparo.
-* 🎓 **Evolução:** Transformando estudos de lógica, robótica e IA em projetos reais e criativos.
-
----
-
 ### 🛠 Tecnologias & Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
