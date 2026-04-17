@@ -1,12 +1,8 @@
 # 👩‍💻 Olá, sou a Liliana! 👋
 
-**Desenvolvedora Full-Stack em formação | Entusiasta de Hardware | Futura Engenheira de Software**
+**Desenvolvedora Full-Stack em formação **
+Sou uma desenvolvedora técnica e observadora, movida pela curiosidade de entender como as coisas funcionam — Atualmente, estou finalizando meu curso técnico em Informática .
 
-Sou uma desenvolvedora técnica e observadora, movida pela curiosidade de entender como as coisas funcionam — do bit ao pixel. Atualmente, estou finalizando meu curso técnico em Informática e me preparando para ingressar na graduação em Engenharia de Software. 
-
-Acredito que o silêncio e a observação são ferramentas poderosas para resolver problemas complexos, seja diagnosticando uma placa-mãe ou estruturando uma aplicação web do zero.
-
----
 ### 🛠 Tecnologias & Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
