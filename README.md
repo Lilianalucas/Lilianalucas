@@ -1,6 +1,6 @@
 <!-- Banner ou título -->
 <h1 align="center">
-  <img src="assets/emoji.png" alt="Menina tecnóloga" width="50"/>  
+# <img src="./assets/emoji.png" alt="Menina tecnóloga" width="50"/> Olá, sou a Liliana! 👋
   Olá, sou a Liliana! 👋
 </h1>
 
