@@ -1,6 +1,7 @@
 <!-- Banner ou título -->
 <h1 align="center">
-# Olá, sou a Liliana! 👋
+  <img src="./menina.png" alt="Menina tecnóloga" width="35"/> 
+  Olá, sou a Liliana! 👋
 </h1>
 
 <p align="center">
