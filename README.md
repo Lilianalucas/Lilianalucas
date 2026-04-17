@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, eu sou a Liliana! 👋
+# 👩‍💻 Olá, sou a Liliana! 👋
 
 **Desenvolvedora Full-Stack em formação | Entusiasta de Hardware | Futura Engenheira de Software**
 
