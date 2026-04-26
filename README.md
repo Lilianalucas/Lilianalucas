@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Animated typing SVG -->
 <a href="https://github.com/Lilianalucas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+a+Liliana!+%F0%9F%91%8B;Desenvolvedora+Full-Stack+em+Forma%C3%A7%C3%A3o;Criando+c%C3%B3digos+que+contam+hist%C3%B3rias+%E2%9C%A8;Curiosa+%7C+Focada+%7C+Em+evolu%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+a+Liliana!+%F0%9F%91%8B;Desenvolvedora+Front-End+%E2%9C%A8;Curiosa+%7C+Focada+%7C+Em+evolu%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=120&section=header&text=&animation=fadeIn" width="100%"/>
@@ -13,26 +11,16 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Girl coding GIF" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ### 👩‍💻 Sobre mim
 
-```python
-class Liliana:
-    nome     = "Liliana Lucas"
-    cargo    = "Desenvolvedora Full-Stack "
-    educação = "Técnico em Informática 🎓"
-    
-    interesses = [
-        "Desenvolvimento Web",
-        "Engenharia de Software",
-        "Design de Interfaces",
-        "Piano Clássico 🎹"
-    ]
-    
-    foco_atual = "Criar código limpo e interfaces que contam histórias"
-    superpoder = "Transformar curiosidade em projetos reais"
-```
+🎓 Finalizando o **Técnico em Informática**
+💜 Apaixonada por criar interfaces bonitas e funcionais
+🔍 Movida pela curiosidade de entender como as coisas funcionam
+🎯 Objetivo: me tornar uma **Engenheira de Software** completa
+🎹 Fora do código, o piano clássico mantém o foco
+🌱 Sempre aprendendo algo novo
 
 > *"No código, busco a eficiência; no hardware, a precisão; e na vida, a clareza de um bom piano clássico para manter o foco."* 🎹
 
@@ -71,7 +59,7 @@ class Liliana:
 
 | 🚀 Projeto | 📝 Descrição | 🔧 Tecnologias |
 |---|---|---|
-| 🎓 **[Teach.me]** | Plataforma de apoio ao aprendizado com assistência inteligente via IA | `React` `JavaScript` `Gemini API` |
+| 🎓 **[Teach.me](http://Teach.me)** | Plataforma de apoio ao aprendizado com assistência inteligente via IA | `React` `JavaScript` `Gemini API` |
 | 🚀 **NLW Developer** | Aplicação Full-Stack com foco em consumo de APIs — Rocketseat | `JavaScript` `Node.js` `APIs` |
 | 🌐 **Hub de Portfólio** | Centralizador de links profissionais e projetos pessoais | `HTML` `CSS` `JavaScript` |
 
@@ -100,16 +88,7 @@ class Liliana:
 
 ## 🌱 Minha Jornada
 
-Focada em evoluir de uma entusiasta do desenvolvimento Full-Stack para uma **Engenheira de Software** completa. Acredito na aprendizagem contínua e na criação de código limpo e interfaces que contam histórias.
-
----
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lilianalucas&theme=radical&no-frame=true&no-bg=true&margin-w=4&title=MultiLanguage,Commits,Repositories,Stars,Followers" alt="Trophies"/>
-
-</div>
+Focada em evoluir e criar código limpo e interfaces que contam histórias. Acredito na aprendizagem contínua como caminho para a excelência.
 
 ---
 
@@ -131,7 +110,6 @@ Focada em evoluir de uma entusiasta do desenvolvimento Full-Stack para uma **Eng
 
 </div>
 
-<!-- Contador de visitas -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lilianalucas&color=9d4edd&style=flat-square&label=Visitantes+do+perfil" alt="Profile views"/>
 </div>
