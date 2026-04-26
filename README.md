@@ -110,6 +110,4 @@ Minha história com tecnologia começou em 2023, quando entrei no curso Técnico
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lilianalucas&color=9d4edd&style=flat-square&label=Visitantes+do+perfil" alt="Profile views"/>
-</div>
+
