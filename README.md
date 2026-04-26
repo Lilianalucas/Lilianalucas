@@ -15,12 +15,12 @@
 
 ### 👩‍💻 Sobre mim
 
-🎓 Finalizando o **Técnico em Informática**
-💜 Apaixonada por criar interfaces bonitas e funcionais
+🎓 sou **Técnico em Informática**
+💜 Apaixonada por técnologia
 🔍 Movida pela curiosidade de entender como as coisas funcionam
 🎯 Objetivo: me tornar uma **Engenheira de Software** completa
 🎹 Fora do código, o piano clássico mantém o foco
-🌱 Sempre aprendendo algo novo
+🌱 Estou sempre aprendendo algo novo
 
 > *"No código, busco a eficiência; no hardware, a precisão; e na vida, a clareza de um bom piano clássico para manter o foco."* 🎹
 
@@ -59,7 +59,7 @@
 
 | 🚀 Projeto | 📝 Descrição | 🔧 Tecnologias |
 |---|---|---|
-| 🎓 **[Teach.me](http://Teach.me)** | Plataforma de apoio ao aprendizado com assistência inteligente via IA | `React` `JavaScript` `Gemini API` |
+| 🎓 **Teach.me** | Plataforma de apoio ao aprendizado com assistência inteligente via IA | `React` `JavaScript` `Gemini API` |
 | 🚀 **NLW Developer** | Aplicação Full-Stack com foco em consumo de APIs — Rocketseat | `JavaScript` `Node.js` `APIs` |
 | 🌐 **Hub de Portfólio** | Centralizador de links profissionais e projetos pessoais | `HTML` `CSS` `JavaScript` |
 
@@ -88,7 +88,7 @@
 
 ## 🌱 Minha Jornada
 
-Focada em evoluir e criar código limpo e interfaces que contam histórias. Acredito na aprendizagem contínua como caminho para a excelência.
+Minha história com tecnologia começou em 2023, quando entrei no curso Técnico em Informática e descobri que minha parte favorita era entender como as coisas aparecem na tela — e aí o Front-end fez todo sentido. Desde então, venho construindo minha base com HTML, CSS e JavaScript, desenvolvendo projetos práticos como meu site pessoal e aprendendo na prática o que significa criar interfaces que sejam bonitas, funcionais e acessíveis. Também carrego comigo conhecimentos em Orientação a Objetos, MySQL e redes — uma visão mais ampla que me ajuda a pensar além do visual. Uso Git e GitHub no meu fluxo de trabalho diário, e o VS Code é minha segunda casa. Estou sempre buscando melhorar — seja refinando um layout, entendendo um novo conceito ou simplesmente tentando escrever um código mais limpo do que ontem.
 
 ---
 
@@ -102,7 +102,7 @@ Focada em evoluir e criar código limpo e interfaces que contam histórias. Acre
 
 <br/>
 
-*Você pode me encontrar explorando novos repositórios, aprendendo algo novo ou ao piano* 🎹
+*Você pode me encontrar explorando novos repositórios, ou apreciando um bom piano* 🎹
 
 <br/>
 
