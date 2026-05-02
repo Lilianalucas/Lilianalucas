@@ -22,9 +22,7 @@
 🎹 Fora do código, o piano clássico mantém o foco
 🌱 Estou sempre aprendendo algo novo
 
-> *"No código, busco a eficiência; no hardware, a precisão; e na vida, a clareza de um bom piano clássico para manter o foco."* 🎹
 
-<br clear="right"/>
 
 ---
 
